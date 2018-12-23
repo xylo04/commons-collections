@@ -15,3 +15,6 @@ site-content
 .settings
 .classpath
 .project
+
+# Bazel build files
+bazel-*
