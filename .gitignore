@@ -10,6 +10,7 @@ site-content
 .iws
 *.iml
 *.ipr
+.ijwb/
 
 # Eclipse files
 .settings
